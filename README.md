@@ -1,6 +1,1 @@
-# Number guessing game
-
-## Tech stack
-- HTML
-- CSS
-- Typescript
+# git-refresh-240725
