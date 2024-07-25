@@ -3,5 +3,4 @@
 ## Tech stack
 - HTML
 - CSS
-- Javascript
-
+- Typescript
