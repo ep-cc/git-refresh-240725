@@ -1,1 +1,7 @@
-# git-refresh-240725
+# Number guessing game
+
+## Tech stack
+- HTML
+- CSS
+- Javascript
+
